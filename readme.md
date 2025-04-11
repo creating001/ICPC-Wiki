@@ -36,7 +36,7 @@
 ### 数论
 1. [欧拉函数]
 2. [素数筛法]
-3. [乘法逆元](./docs/inverse.md)
+3. [乘法逆元](./docs/math/inverse.md)
 4. [数论分块]
 5. [离散对数]
 6. [素数/约数]
@@ -44,12 +44,11 @@
 8. [莫比乌斯反演]
 
 ### 组合数学
-1. [排列组合](./docs/combination.md)
+1. [排列组合](./docs/math/combination.md)
 2. [容斥原理]
 3. [康托展开]
-4. [卡特兰数](./docs/catalan.md)
-5. [卢卡斯定理](./docs/lucas.md)
-6. [斐波那契数列]
+4. [卡特兰数](./docs/math/catalan.md)
+5. [卢卡斯定理](./docs/math/lucas.md)
 
 ### 博弈论
 1. [SG函数/Nim游戏]
@@ -58,6 +57,7 @@
 1. [线性基]
 2. [数值积分]
 3. [高斯消元]
+4. [距离转换](./docs/math/distance.md)
 
 ## 数据结构
 1. [平衡树]
